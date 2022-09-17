@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "playground",
+    "owner": "jdiebold1795",
     "slug": "playground",
     "version": "1.0.0",
     "orientation": "portrait",
